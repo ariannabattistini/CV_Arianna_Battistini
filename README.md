@@ -1,5 +1,5 @@
-# CV_Vaghini_Alessandro
-CV Vaghini Alessandro
+# CV_Arianna_Battistini
+CV Arianna Battistini
 
 1.Crea un repository pubblico:Vai su GitHub e crea un nuovo repository pubblico (es. cv-online). Seleziona l'opzione per aggiungere un file README iniziale.
 
